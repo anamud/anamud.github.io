@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Dosis", Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Dosis", serif;
+  font-family: "PT Sans", serif;
   font-size: 2.5rem;
 }
 
@@ -256,5 +256,14 @@ a.sidebar-nav-item:focus {
 .theme-base-10 .content a,
 .theme-base-10 .related-posts li a:hover {
   color: #e34234;
+}
+
+/* LaTeX ModernCV blue */
+.theme-base-11 .sidebar {
+  background-color: #3872b2;
+}
+.theme-base-11 .content a,
+.theme-base-11 .related-posts li a:hover {
+  color: #3872b2;
 }
 
