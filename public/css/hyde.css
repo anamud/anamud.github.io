@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 16rem;
     text-align: left;
   }
 }
@@ -81,6 +81,14 @@ html {
   margin-top: 0;
   font-family: "PT Sans", serif;
   font-size: 2.5rem;
+  display: flex;
+}
+
+/* Profile image */
+.profile-image {
+    width: 150px;
+    height: 150px;
+    margin: auto;
 }
 
 /* Sidebar nav */
@@ -266,4 +274,3 @@ a.sidebar-nav-item:focus {
 .theme-base-11 .related-posts li a:hover {
   color: #3872b2;
 }
-
