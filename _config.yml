@@ -11,15 +11,15 @@ relative_permalinks: false
 title:            Ananya M.
 tagline:          'Researcher in Parallel Computing'
 description:      'Researcher in Parallel Computing'
-url:              http://anamud.github.io/
+url:              https://anamud.github.io/
 baseurl:          /
 
 author:
   name:           'Ananya Muddukrishna'
   url:            https://twitter.com/AnanyaMuddu/
-  scholar:        http://scholar.google.co.in/citations?user=fazL_HYAAAAJ/
-  linkedin:       http://www.linkedin.com/pub/ananya-muddukrishna/4/195/b15/
-  github:         http://github.com/anamud/
+  scholar:        https://scholar.google.co.in/citations?user=fazL_HYAAAAJ/
+  linkedin:       https://www.linkedin.com/pub/ananya-muddukrishna/4/195/b15/
+  github:         https://github.com/anamud/
   cv:             https://drive.google.com/open?id=0B-8O7BZcJRKBUGQxUFJBWXU5dGs
 
 paginate:         5
