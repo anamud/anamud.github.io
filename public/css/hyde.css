@@ -81,14 +81,6 @@ html {
   margin-top: 0;
   font-family: "PT Sans", serif;
   font-size: 2.5rem;
-  display: flex;
-}
-
-/* Profile image */
-.profile-image {
-    width: 150px;
-    height: 150px;
-    margin: auto;
 }
 
 /* Sidebar nav */
