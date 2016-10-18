@@ -23,3 +23,7 @@ author:
   cv:             https://drive.google.com/open?id=0B-8O7BZcJRKBUGQxUFJBWXU5dGs
 
 paginate:         5
+
+# Google services
+google_analytics: UA-85909137-1
+
