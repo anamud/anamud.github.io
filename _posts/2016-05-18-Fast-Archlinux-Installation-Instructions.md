@@ -1,3 +1,8 @@
+---
+layout: post
+title: Fast Archlinux Installation Instructions 
+---
+
 The first thing I do when I get a new computer is install Archlinux. I have cached instructions here to breeze through the installation next time.
 Most of the instructions are based on the guide [here](https://gist.github.com/mattiaslundberg/8620837).
 

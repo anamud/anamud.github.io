@@ -1,3 +1,8 @@
+---
+layout: post
+title: Create a Windows 10 Recovery USB Disk
+---
+
 Dang! Windows 10 refuses to boot. Thankfully I have a recovery ISO saved on
 *firenze*, my other laptop.  All that is now required is to transfer the
 recovery ISO to a USB disk, reboot on the busted machine, and hope Windows can
