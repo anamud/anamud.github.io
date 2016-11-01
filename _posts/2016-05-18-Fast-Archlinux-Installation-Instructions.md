@@ -15,7 +15,6 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
     ```
     # dhcpcd
-
     # ping www.google.com
     ```
 
@@ -23,17 +22,11 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
     ```
     # parted /dev/sda
-
     (parted) mklabel gpt
-
     (parted) mkpart ESP fat32 1MiB 1024MiB
-
     (parted) set 1 boot on
-
     (parted) mkpart primary ext4 1024MiB 480GiB
-
     (parted) mkpart primary linux-swap 480GiB 511GiB
-
     (parted) quit
     ```
 
@@ -41,11 +34,8 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
     ```
     # mkfs.fat -F32 /dev/sda1
-
     # mkfs.ext4 /dev/sda2
-
     # mkswap /dev/sda3
-
     # swapon /dev/sda3
     ```
 
@@ -53,9 +43,7 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
     ```
     # mount /dev/sda2 /mnt
-
     # mkdir -p /mnt/boot
-
     # mount /dev/sda1 /mnt/boot
     ```
 
@@ -75,11 +63,8 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
     ```
     # vim /mnt/etc/fstab
-
     (vim) Mount `/tmp` as `tmpfs` (in-memory filesystem) by adding the line,
-
-    `tmpfs    /tmp    tmpfs    defaults,noatime,mode=1777    0    0`
-
+    tmpfs    /tmp    tmpfs    defaults,noatime,mode=1777    0    0
     (vim) Change `relatime` on all non-boot partitions to `noatime` to reduce SSD wear.
     ```
 
@@ -93,7 +78,6 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
     ```
     # ln -s /usr/share/zoneinfo/Europe/Stockholm /etc/localtime
-
     # hwclock --systohc --utc
     ```
 
@@ -107,9 +91,7 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
     ```
     # echo LANG=en_US.UTF-8 >> /etc/locale.conf
-
     # echo LANGUAGE=en_US >> /etc/locale.conf
-
     # echo LC_ALL=C >> /etc/locale.conf
     ```
 
@@ -123,7 +105,6 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
     ```
     # useradd -m -g users -G wheel,storage,power ananya
-
     # passwd ananya
     ```
 
@@ -131,9 +112,7 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
     ```
     # vim /etc/mkinitcpio.conf
-
     (vim) Add 'ext4' to MODULES list
-
     (vim) Write out and exit.
     ```
 
@@ -153,7 +132,6 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
     ```
     # grub-install --target=x86_64-efi --efi-directory=/boot /dev/sda
-
     # grub-mkconfig -o /boot/grub/grub.cfg
     ```
 
@@ -167,7 +145,6 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
     ```
     # umount -R /mnt
-
     # swapoff -a
     ```
 
