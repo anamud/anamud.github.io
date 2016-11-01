@@ -133,7 +133,9 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
 - Reboot. Remove the installation media.
 
+    ```
     # reboot
+    ```
 
 - If everything went well, you should boot into the installed system.
 
