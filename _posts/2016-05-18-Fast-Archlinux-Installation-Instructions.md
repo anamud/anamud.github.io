@@ -143,16 +143,16 @@ Some of the instructions are based on the guide [here](https://gist.github.com/m
 
 - Unmount all partitions.
 
-    ```
-    # umount -R /mnt
-    # swapoff -a
-    ```
+```
+# umount -R /mnt
+# swapoff -a
+```
 
 - Reboot. Remove the installation media.
 
-    ```
-    # reboot
-    ```
+```
+# reboot
+```
 
 - If everything went well, you should boot into the installed system.
 
