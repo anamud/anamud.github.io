@@ -1,29 +1,29 @@
-Dang! Windown 10 refuses to boot. Thankfully I have a recovery ISO saved on
+Dang! Windows 10 refuses to boot. Thankfully I have a recovery ISO saved on
 *firenze*, my other laptop.  All that is now required is to transfer the
-recovery ISO to a USB disk, reebot on the busted machine, and hope Windows can
-repeair itself.
+recovery ISO to a USB disk, reboot on the busted machine, and hope Windows can
+repair itself.
 
-This guide assumes the USB disk is atleast 4GB in size and is mapped to device
-/dev/sdc1. Use the fdisk program to understand your USB disk properties.
+This guide assumes the USB disk is at least 4GB in size and is mapped to device
+`/dev/sdc1`. Use `fdisk` to understand your USB disk properties.
 
 > Warning: All data on USB disk will be erased. Ensure valuable data on disk
 is backed up!
 
-- Unmount USB disk
+- Unmount USB disk.
 
     ```bash
     [ananya@firenze WIN10-Recovery-ISO]$ sudo umount /dev/sdc1
     ```
 
-- Prepare USB disk
+- Prepare USB disk.
 
     Required:
     - MSDOS partition table
     - Format FAT32
     - Single primary partition
-    - Flags lba and boot set
+    - Flags `lba` and `boot` set
 
-    We will use the parted program to prepare the USB disk.
+    We will use `parted` to prepare the USB disk.
 
     > Note the argument to parted. It is */dev/sdc*, not /dev/sdc1.
 
@@ -39,10 +39,10 @@ is backed up!
     (parted) quit
     ```
 
-- Confirm USB disk state
+- Confirm USB disk state is proper.
 
     Ensure USB drive is formatted to FAT32, has a single primary partition,
-    has a MSDOS partition table, and has flags lba and boot set
+    has a MSDOS partition table, and has flags `lba` and `boot` set
     as shown below.
 
     ```bash
@@ -63,7 +63,7 @@ is backed up!
     (parted) quit
     ```
 
-- Copy contents of ISO to USB disk
+- Copy contents of ISO to USB disk.
 
     ```bash
     [ananya@firenze WIN10-Recovery-ISO]$ sudo dd if=RECOVERY.ISO of=/dev/sdc
