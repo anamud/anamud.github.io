@@ -1,9 +1,9 @@
 # Fast Archlinux Installation Instructions
 
 The first thing I do when I get a new computer is install Archlinux. I have saved instructions here to breeze through the installation next time.
-Some of the instructions are based on the guide here: https://gist.github.com/mattiaslundberg/8620837.
+Some of the instructions are based on the guide [here](https://gist.github.com/mattiaslundberg/8620837).
 
-- Check if Archlinux is reported to run well on the new computer. I have a new T460s, so I checked here: https://wiki.archlinux.org/index.php/Lenovo_ThinkPad_T460s
+- Check if Archlinux is reported to run well on the new computer. I have a new T460s, so I checked [here](https://wiki.archlinux.org/index.php/Lenovo_ThinkPad_T460s).
 
 - Boot X86_64 Archlinux in UEFI mode. In this mode, the boot screen looks plain without graphics.
 
@@ -67,7 +67,7 @@ Some of the instructions are based on the guide here: https://gist.github.com/ma
 
     `tmpfs    /tmp    tmpfs    defaults,noatime,mode=1777    0    0`
 
-    (vim) Change `relatime` on all non-boot partitions to `noatime` to reduce SSD wear
+    (vim) Change `relatime` on all non-boot partitions to `noatime` to reduce SSD wear.
 
 - Change root into new filesystem.
 
@@ -103,11 +103,11 @@ Some of the instructions are based on the guide here: https://gist.github.com/ma
 
 - Configure `mkinitcpio` with modules needed for the `initrd` image.
 
-    # nano /etc/mkinitcpio.conf
+    # vim /etc/mkinitcpio.conf
 
-    (nano) Add 'ext4' to MODULES list
+    (vim) Add 'ext4' to MODULES list
 
-    (nano) Write out and exit.
+    (vim) Write out and exit.
 
 - Regenerate `initrd` image.
 
@@ -139,4 +139,4 @@ Some of the instructions are based on the guide here: https://gist.github.com/ma
 
 - If everything went well, you should boot into the installed system.
 
-- Follows tips to improve performance here: https://wiki.archlinux.org/index.php/Improving_performance
+- Follows tips to improve performance [here](https://wiki.archlinux.org/index.php/Improving_performance).
