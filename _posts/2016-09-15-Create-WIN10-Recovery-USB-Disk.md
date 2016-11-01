@@ -11,33 +11,29 @@ is backed up!
 
 - Unmount USB disk.
 
-    ```bash
-    [ananya@firenze WIN10-Recovery-ISO]$ sudo umount /dev/sdc1
-    ```
+```bash
+[ananya@firenze WIN10-Recovery-ISO]$ sudo umount /dev/sdc1
+```
 
 - Prepare USB disk.
 
-    Required:
-    - MSDOS partition table
-    - Format FAT32
-    - Single primary partition
-    - Flags `lba` and `boot` set
+  Required: MSDOS partition table, format FAT32, single primary partition, flags `lba` and `boot` set.
 
-    We will use `parted` to prepare the USB disk.
+  We will use `parted` to prepare the USB disk.
 
-    > Note the argument to parted. It is */dev/sdc*, not /dev/sdc1.
+  > Note the argument to parted. It is */dev/sdc*, not /dev/sdc1.
 
-    ```bash
-    [ananya@firenze WIN10-Recovery-ISO]$ sudo parted /dev/sdc
-    GNU Parted 3.2
-    Using /dev/sdc
-    Welcome to GNU Parted! Type 'help' to view a list of commands.
-    (parted) mklabel msdos
-    (parted) mkpart primary fat32 1MiB 100%
-    (parted) set 1 boot on
-    (parted) set 1 lba on
-    (parted) quit
-    ```
+```bash
+[ananya@firenze WIN10-Recovery-ISO]$ sudo parted /dev/sdc
+GNU Parted 3.2
+Using /dev/sdc
+Welcome to GNU Parted! Type 'help' to view a list of commands.
+(parted) mklabel msdos
+(parted) mkpart primary fat32 1MiB 100%
+(parted) set 1 boot on
+(parted) set 1 lba on
+(parted) quit
+```
 
 - Confirm USB disk state is proper.
 
@@ -45,26 +41,26 @@ is backed up!
     has a MSDOS partition table, and has flags `lba` and `boot` set
     as shown below.
 
-    ```bash
-    [ananya@firenze WIN10-Recovery-ISO]$ sudo parted /dev/sdc
-    GNU Parted 3.2
-    Using /dev/sdc
-    Welcome to GNU Parted! Type 'help' to view a list of commands.
-    (parted) print
-    Model: Corsair Flash Voyager (scsi)
-    Disk /dev/sdc: 4060MB
-    Sector size (logical/physical): 512B/512B
-    Partition Table: msdos
-    Disk Flags:
+```bash
+[ananya@firenze WIN10-Recovery-ISO]$ sudo parted /dev/sdc
+GNU Parted 3.2
+Using /dev/sdc
+Welcome to GNU Parted! Type 'help' to view a list of commands.
+(parted) print
+Model: Corsair Flash Voyager (scsi)
+Disk /dev/sdc: 4060MB
+Sector size (logical/physical): 512B/512B
+Partition Table: msdos
+Disk Flags:
 
-    Number  Start   End     Size    Type     File system  Flags
-     1      65.5kB  4060MB  4060MB  primary  fat32        boot, lba
+Number  Start   End     Size    Type     File system  Flags
+ 1      65.5kB  4060MB  4060MB  primary  fat32        boot, lba
 
-    (parted) quit
-    ```
+(parted) quit
+```
 
 - Copy contents of ISO to USB disk.
 
-    ```bash
-    [ananya@firenze WIN10-Recovery-ISO]$ sudo dd if=RECOVERY.ISO of=/dev/sdc
-    ```
+```bash
+[ananya@firenze WIN10-Recovery-ISO]$ sudo dd if=RECOVERY.ISO of=/dev/sdc
+```
