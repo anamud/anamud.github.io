@@ -1,5 +1,5 @@
 Dang! Windown 10 refuses to boot. Thankfully I have a recovery ISO saved on
-`firenze`, my other laptop.  All that is now required is to transfer the
+*firenze*, my other laptop.  All that is now required is to transfer the
 recovery ISO to a USB disk, reebot on the busted machine, and hope Windows can
 repeair itself.
 
