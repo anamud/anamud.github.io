@@ -3,7 +3,7 @@ layout: page
 title: Scientific Communication
 ---
 
-Here are selected samples of scientific and technical communication produced by me.
+Here are selected samples of scientific and technical communication that I have produced.
 
 - A [paper](https://drive.google.com/open?id=0B-8O7BZcJRKBal91YnZ0X3dERVk) published in PPOPP 2016, a top-tier computing conference. The paper introduced a new technique for visualizing performance problems of OpenMP programs in high detail.
 
