@@ -19,7 +19,7 @@ I will embark on a long journey of total recall and fun-filled prototyping insid
 - Build atleast one hundred self-designed or kit-based analog and DSP circuits
 - Try out and modify atleast one hundred designs available on [OpenCores](https://www.opencores.org) using FPGAs and simulators
 - Practice image processing and neural network accelerator design on FPGAs using Xilinx [Pynq](http://www.pynq.io/) and similar devices
-- Complete embedded development and Linux driver programming courses from [Free Electrons](http://free-electrons.com/training/)
+- Complete embedded development and Linux driver programming courses from [Free Electrons](http://free-electrons.com/training/) using the [BeagleBone Black](http://beagleboard.org/black)
 - Get hands dirty with sensor prototyping and DSP with the Arduino, Teensy, and the ESP32 microcontrollers
 
 Its time to play! Adios amigos!
