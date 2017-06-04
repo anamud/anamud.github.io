@@ -10,8 +10,8 @@ My lab is called `Punarutthaana` (the Kannada word for revival) because it reviv
 
 Punarutthaana is a compact and cost-effective lab built to fit my modestly-sized home and budget.
 The lab workbench is a modern secretary desk from IKEA.
-With compact-size as the global constraint, I balanced between expensive-but-long-lasting, cheap-but-effective, DIY, and multi-purpose tools for the lab.
-A list of components in my lab is available on request.
+With compact-size as the global constraint, I balanced between expensive-but-long-lasting, cheap-but-effective, DIY, and multi-purpose tools and components for the lab.
+A comprehensive list of things in the lab is available on request.
 
 I will embark on a long journey of total recall and fun-filled prototyping inside my lab. Here are the first steps I plan to take:
 
