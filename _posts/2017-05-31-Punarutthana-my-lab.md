@@ -4,13 +4,13 @@ title: Punarutthaana, my lab at home
 ---
 
 I recently built a small Electronics lab at home for self-study and revision.
-My lab is called `Punarutthaana` (the Kannada word for revival) because it revives a childhood hobby of Electronics prototyping.
+My lab is called `Punarutthaana` (ಪುನರುತ್ಥಾನ, the Kannada word for revival) because it revives a childhood hobby of Electronics prototyping.
 
 ![Ananya Muddukrishna in Punarutthaana, Stockholm]({{ site.url }}/images/IMG_20170525_183437-COLLAGE.jpg)
 
 Punarutthaana is a compact and cost-effective lab built to fit my modestly-sized home and budget.
 The lab workbench is a modern secretary desk from IKEA.
-With compact-size as the global constraint, I balanced between expensive-but-long-lasting, cheap-but-effective, DIY, and multi-purpose tools and components for the lab.
+With compact size as the global constraint, I balanced between expensive-but-long-lasting, cheap-and-effective, DIY, and multi-purpose tools and components for the lab.
 A comprehensive list of things in the lab is available on request.
 
 I will embark on a long journey of total recall and fun-filled prototyping inside my lab. Here are the first steps I plan to take:
@@ -20,7 +20,7 @@ I will embark on a long journey of total recall and fun-filled prototyping insid
 - Try out and modify atleast one hundred designs available on [OpenCores](https://www.opencores.org) using FPGAs and simulators
 - Practice A/V processing and neural network accelerator design on FPGAs using Xilinx [Pynq](http://www.pynq.io/) and similar devices
 - Complete embedded development and Linux driver programming courses from [Free Electrons](http://free-electrons.com/training/) using the [BeagleBone Black](http://beagleboard.org/black)
-- Get hands dirty with sensor prototyping and DSP with the Arduino, Teensy, and the ESP32 microcontrollers
+- Get hands dirty with sensor prototyping and DSP with Arduino, Teensy, and ESP32 microcontrollers
 
 Its time to play! Adios amigos!
 
