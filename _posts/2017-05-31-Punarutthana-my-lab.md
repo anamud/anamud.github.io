@@ -4,7 +4,7 @@ title: Punarutthaana, my lab at home
 ---
 
 I recently built a small Electronics lab at home for self-study and revision.
-My lab is called `Punarutthaana` (ಪುನರುತ್ಥಾನ, the Kannada word for revival) because it revives a childhood hobby of Electronics prototyping.
+My lab is called `Punarutthaana` (ಪುನರುತ್ಥಾನ, the Kannada word for resurrection) because it resurrects a childhood hobby of Electronics prototyping.
 
 ![Ananya Muddukrishna in Punarutthaana, Stockholm]({{ site.url }}/images/IMG_20170525_183437-COLLAGE.jpg)
 
