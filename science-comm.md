@@ -5,7 +5,9 @@ title: Scientific Communication
 
 Here are selected samples of scientific and technical communication that I have produced.
 
-- A [paper](https://drive.google.com/open?id=0B-8O7BZcJRKBal91YnZ0X3dERVk) published in PPOPP 2016, a top-tier computing conference. The paper introduced a new technique for visualizing performance problems of OpenMP programs in high detail.
+- A [paper](https://drive.google.com/open?id=0B-8O7BZcJRKBal91YnZ0X3dERVk) published in PPOPP 2016, a top-tier computing conference. The paper introduced a new technique called *Grain Graphs* that visualizes performance problems of OpenMP programs in high detail.
+
+- The [wiki](https://github.com/anamud/grain-graphs/wiki) of the prototype implementation of Grain Graphs.
 
 - The [Introduction chapter](https://drive.google.com/open?id=0B-8O7BZcJRKBVmJXQkY2dmdaMFU) of my PhD dissertation. The chapter is written to provide a concise yet thorough understanding of contributions in addition to a good introduction to the subject area and problems tackled.
 
