@@ -1,30 +1,6 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-plugins: [jekyll-paginate]
+theme: jekyll-theme-cayman
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: false
-
-# Setup
-title:            Ananya M.
-tagline:          'Researcher in Parallel Computing'
-description:      'Researcher in Parallel Computing'
-url:              https://anamud.github.io/
-baseurl:          /
-
-author:
-  name:           'Ananya Muddukrishna'
-  url:            https://twitter.com/AnanyaMuddu/
-  scholar:        https://scholar.google.co.in/citations?user=fazL_HYAAAAJ/
-  linkedin:       https://www.linkedin.com/pub/ananya-muddukrishna/4/195/b15/
-  github:         https://github.com/anamud/
-  cv:             https://drive.google.com/open?id=0B-8O7BZcJRKBUGQxUFJBWXU5dGs
-  resume:         https://drive.google.com/open?id=0B-8O7BZcJRKBajBZanVRNUM2MzQ
-
-paginate:         5
-
-# Google services
+title:            Dr. Ananya Muddukrishna
+description:      Researcher in Parallel Computing
+show_downloads: false
 google_analytics: UA-85909137-1
-
