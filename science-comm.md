@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-2)Scientific and Technical Communication Samples
+# [](#header-3)Scientific and Technical Communication Samples
 
 *   A [paper](https://drive.google.com/open?id=0B-8O7BZcJRKBal91YnZ0X3dERVk) published in PPOPP 2016, a top-tier computing conference. The paper introduced a new technique called *Grain Graphs* that visualizes performance problems of OpenMP programs in high detail.
 

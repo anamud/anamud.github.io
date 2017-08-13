@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# [](#header-3)My Home Lab
+
 I recently built a small Electronics lab at home for self-study and revision.
 My lab is called `Punarutthaana` (ಪುನರುತ್ಥಾನ, the Kannada word for resurrection) because it resurrects a childhood hobby of Electronics prototyping.
 
