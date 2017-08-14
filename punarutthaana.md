@@ -14,7 +14,7 @@ The lab workbench is a modern secretary desk from IKEA.
 With compact size as the global constraint, I balanced between expensive-but-long-lasting, cheap-and-effective, DIY, and multi-purpose tools and components for the lab.
 A comprehensive list of things in the lab is available on request.
 
-I have embarked on a long journey of total recall and fun-filled prototyping inside my lab. Here are the first steps I am taking:
+I have embarked on an epic journey of in-depth revision and fun-filled prototyping inside my lab. Here are the first steps I am taking:
 
 *   Complete the [Real Analog](https://learn.digilentinc.com/classroom/realanalog/) design course from Digilent
 *   Build atleast one hundred self-designed or kit-based analog and DSP circuits
