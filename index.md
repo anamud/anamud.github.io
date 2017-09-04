@@ -15,7 +15,7 @@ Welcome to my website. Please use the links below to access relevant information
 
 *   [Google Scholar](https://scholar.google.co.in/citations?user=fazL_HYAAAAJ)
 *   [LinkedIn](https://www.linkedin.com/pub/ananya-muddukrishna/4/195/b15)
-*   [GitHub](https://github.com/anamud)
+*   [GitHub projects](https://github.com/anamud)
 
 # [](#header-3)More
 
