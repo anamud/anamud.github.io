@@ -21,7 +21,9 @@ I have embarked on an epic journey of in-depth revision and fun-filled prototypi
 *   Try out and modify atleast one hundred designs available on [OpenCores](https://www.opencores.org) using FPGAs and simulators
 *   Practice A/V processing and neural network accelerator design on FPGAs using Xilinx [Pynq](http://www.pynq.io/) and similar devices
 *   Complete embedded development and Linux driver programming courses from [Free Electrons](http://free-electrons.com/training/) using the [BeagleBone Black](http://beagleboard.org/black)
-- Get hands dirty with sensor prototyping and DSP with Arduino, Teensy, and ESP32 microcontrollers
+*   Get hands dirty with sensor prototyping and DSP with Arduino, Teensy, and ESP32 microcontrollers
+*   Tinker with radio using RTL-SDR kits
+
 
 Its play time! Adios amigos!
 
