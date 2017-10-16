@@ -10,7 +10,7 @@ Welcome to my website. Please use the links below to access relevant information
 
 *   [Academic CV](https://drive.google.com/open?id=0B-8O7BZcJRKBUGQxUFJBWXU5dGs)
 *   [Resume (single page)](https://drive.google.com/open?id=0B-8O7BZcJRKBajBZanVRNUM2MzQ)
-*   [CV på Svenska](https://drive.google.com/open?id=0B-8O7BZcJRKBcDBtRm5qNDB6eFE)
+*   [CV på Svenska (kort)](https://drive.google.com/open?id=0B-8O7BZcJRKBcDBtRm5qNDB6eFE)
 
 # [](#header-3)Profiles
 
