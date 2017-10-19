@@ -22,8 +22,7 @@ I have embarked on an epic journey of in-depth revision and fun-filled prototypi
 *   Practice A/V processing and neural network accelerator design on FPGAs using Xilinx [Pynq](http://www.pynq.io/) and similar devices
 *   Complete embedded development and Linux driver programming courses from [Free Electrons](http://free-electrons.com/training/) using the [BeagleBone Black](http://beagleboard.org/black)
 *   Get hands dirty with sensor prototyping and DSP with Arduino, Teensy, and ESP32 microcontrollers
-*   Tinker with radio using RTL-SDR kits
-
+*   Listen to distant radio using the [NooElec NESDR SMArt](http://www.nooelec.com/store/nesdr-smart-sdr.html) and other similar RTL-SDR kits
 
 Its play time! Adios amigos!
 
