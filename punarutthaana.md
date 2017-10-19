@@ -7,7 +7,7 @@ layout: default
 I recently built a small Electronics lab at home for self-study and revision.
 My lab is called `Punarutthaana` (ಪುನರುತ್ಥಾನ, the Kannada word for resurrection) because it resurrects a childhood hobby of Electronics prototyping.
 
-![Ananya Muddukrishna in Punarutthaana, Stockholm]({{ site.url }}/images/IMG_20170525_183437-COLLAGE.jpg)
+![Ananya Muddukrishna in Punarutthaana, Stockholm]({{ site.url }}/images/Updated-lab-photo.jpg)
 
 Punarutthaana is a compact and cost-effective lab built to fit my modestly-sized home and budget.
 The lab workbench is a modern secretary desk from IKEA.
