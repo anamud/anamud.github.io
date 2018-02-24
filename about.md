@@ -2,9 +2,11 @@
 layout: default
 ---
 
-I was born in Mysooru, India to broad-minded parents.
+I was born in Mysooru, India to broad-minded, loving parents.
 
-I earn my living by analyzing performance and power problems of low-power embedded vision systems as a [post-doc at NTNU Norwegian University of Science and Technology](https://www.ntnu.edu/employees/ananya.muddukrishna).
+I earn my living as a consultant specializing in Embedded Systems at [ÅF](http://www.afconsult.com/).
+
+My most recent work as an academic was that of a [post-doc at NTNU Norwegian University of Science and Technology](https://www.ntnu.edu/employees/ananya.muddukrishna) analyzing performance and power problems of low-power embedded vision systems.
 
 Here is how I look on a good-hair day:
 
