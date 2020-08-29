@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I was born in Mysooru, India to broad-minded, loving parents.
+I was born in Mysooru, India to broad-minded, loving parents Kapila Muddukrishna and Indrani Dasappa.
 
-I earn my living as a consultant specializing in Embedded Systems at [ÅF](http://www.afconsult.com/).
+I am employed as a Senior Researcher in Ericsson AB in Stockholm, Sweden.
 
 My most recent work as an academic was that of a [post-doc at NTNU Norwegian University of Science and Technology](https://www.ntnu.edu/employees/ananya.muddukrishna) analyzing performance and power problems of low-power embedded vision systems.
 
