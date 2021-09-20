@@ -9,8 +9,8 @@ Welcome to my website. Please use the links below to access relevant information
 # [](#header-3)Documents
 
 *   [Academic CV](https://drive.google.com/open?id=1Yx-wmues-BnIyeijQRbS1i3KiPdulg_E)
-*   [Resume (single page)](https://drive.google.com/open?id=0B-8O7BZcJRKBajBZanVRNUM2MzQ)
-*   [CV på Svenska (kort)](https://drive.google.com/open?id=0B-8O7BZcJRKBcDBtRm5qNDB6eFE)
+*   [Resume (single page)](https://drive.google.com/open?id=1ZraE1w7HbOTozzpFuprE3YYvB9DoqrTv)
+*   [CV på Svenska (kort)](https://drive.google.com/open?id=1UYfYvXylVBiXdndp9zdsAI_Gh93aKhle)
 
 # [](#header-3)Profiles
 
