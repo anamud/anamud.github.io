@@ -4,6 +4,8 @@ layout: default
 
 # [](#header-3)Scientific and Technical Communication Samples
 
+*   A [RFC-like design description](https://design.ros2.org/articles/unique_network_flows.html) about 5G network integration API for the widely-used open-source [ROS](https://www.ros.org/) robotics software framework. The design description was accompanied by [working source code](https://github.com/ros2/rclcpp/pull/1496) that eventually got merged into mainline ROS after detailed discussions with the ROS Middleware Working Group.
+
 *   A [paper](https://drive.google.com/open?id=0B-8O7BZcJRKBal91YnZ0X3dERVk) published in PPOPP 2016, a top-tier computing conference. The paper introduced a new technique called *Grain Graphs* that visualizes performance problems of OpenMP programs in high detail.
 
 *   The [wiki](https://github.com/anamud/grain-graphs/wiki) of the prototype implementation of Grain Graphs.
@@ -21,5 +23,5 @@ layout: default
 *   A [technical writing assignment](https://drive.google.com/open?id=0B-8O7BZcJRKBaXozVk5DTUNzZnc) for Spotify regarding their new Web API console.
 
 *   A [reply](https://drive.google.com/open?id=0B-8O7BZcJRKBWE42N0E2QXFHS3c) to a question on [Quora](https://www.quora.com/). I have written over 100 answers on Quora regarding Parallel Computing, Computer Architecture, and life as a researcher.
-
+ 
 [(Back to Home)](index)
