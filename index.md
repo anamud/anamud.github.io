@@ -8,9 +8,9 @@ Welcome to my website. Please use the links below to access relevant information
 
 # [](#header-3)Documents
 
-*   [Academic CV](https://drive.google.com/open?id=1Yx-wmues-BnIyeijQRbS1i3KiPdulg_E)
-*   [Resume (single page)](https://drive.google.com/open?id=1ZraE1w7HbOTozzpFuprE3YYvB9DoqrTv)
-*   [CV på Svenska (kort)](https://drive.google.com/open?id=1UYfYvXylVBiXdndp9zdsAI_Gh93aKhle)
+*   [Academic CV](https://www.dropbox.com/scl/fi/enazjilq8n4yeeqr0vpw2/Ananya_CV.pdf?rlkey=qy3nmpt2kyj5kleokcy0brbp9&st=yej6eaja&dl=0)
+*   [Resume (single page)](https://www.dropbox.com/scl/fi/lldxtfqtng8ucz59kxdpn/resume.pdf?rlkey=l368eogtt4xghs3addlgpmx82&st=oqvxz2tg&dl=0)
+*   [CV på Svenska (kort)](https://www.dropbox.com/scl/fi/yp5hj7yduwuzvwmtrnbv3/resume-sv.pdf?rlkey=2l1gkvtslonemmyk0fyjmahlh&st=at8l7mpb&dl=0)
 
 # [](#header-3)Profiles
 
@@ -22,4 +22,4 @@ Welcome to my website. Please use the links below to access relevant information
 
 *   [My home lab](punarutthaana)
 *   [Scientific and technical communication samples](science-comm)
-*   [QPYNQ hands-on workshop](https://drive.google.com/open?id=0B-8O7BZcJRKBRGJfTzFiUmF5bDA)
+*   [QPYNQ hands-on workshop](https://www.dropbox.com/scl/fi/nr5iq0o3uiixg0vbptmec/qpynq-2017-workshop-flyer.pdf?rlkey=50vhnolon5pnqmuf9aanhp9jl&st=dm9lf1x9&dl=0)
